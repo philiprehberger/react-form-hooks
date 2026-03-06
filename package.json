@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/react-form-hooks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lightweight form management hook with Zod validation, debounced field validation, and common validators",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -18,7 +18,9 @@
       }
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
@@ -31,18 +33,33 @@
     "zod": ">=3.0.0"
   },
   "devDependencies": {
+    "@types/node": "^25.3.5",
     "@types/react": "^19.0.0",
     "react": "^19.0.0",
-    "zod": "^3.23.0",
     "tsup": "^8.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "zod": "^3.23.0"
   },
-  "keywords": ["react", "form", "hooks", "zod", "validation", "form-management"],
+  "keywords": [
+    "react",
+    "form",
+    "hooks",
+    "zod",
+    "validation",
+    "form-management"
+  ],
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/react-form-hooks.git" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiprehberger/react-form-hooks.git"
+  },
   "homepage": "https://github.com/philiprehberger/react-form-hooks#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/react-form-hooks/issues" },
+  "bugs": {
+    "url": "https://github.com/philiprehberger/react-form-hooks/issues"
+  },
   "author": "Philip Rehberger",
-  "engines": { "node": ">=18.0.0" },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "sideEffects": false
 }
