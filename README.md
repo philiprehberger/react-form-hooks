@@ -1,6 +1,6 @@
 # @philiprehberger/react-form-hooks
 
-[![CI](https://github.com/philiprehberger/react-form-hooks/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/react-form-hooks/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/react-form-hooks/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/react-form-hooks/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/react-form-hooks.svg)](https://www.npmjs.com/package/@philiprehberger/react-form-hooks)
 [![License](https://img.shields.io/github/license/philiprehberger/react-form-hooks)](LICENSE)
 
@@ -50,6 +50,15 @@ function LoginForm() {
 - Dirty tracking, touched state, submit handling
 - `FormProvider` / `useFormContext` for nested form components
 - Common validators: email, password, phone, name, address, URL, slug, etc.
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
