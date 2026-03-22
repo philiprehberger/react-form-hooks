@@ -1,8 +1,8 @@
 # @philiprehberger/react-form-hooks
 
-[![CI](https://github.com/philiprehberger/react-form-hooks/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/react-form-hooks/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-react-form-hooks/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-react-form-hooks/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/react-form-hooks.svg)](https://www.npmjs.com/package/@philiprehberger/react-form-hooks)
-[![License](https://img.shields.io/github/license/philiprehberger/react-form-hooks)](LICENSE)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-react-form-hooks)](LICENSE)
 
 Lightweight form management hook with Zod validation
 
