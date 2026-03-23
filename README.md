@@ -43,7 +43,7 @@ function LoginForm() {
 }
 ```
 
-## Features
+### Features
 
 - Zod schema validation with debounced field-level validation
 - `getFieldProps()` for easy input binding (handles checkbox, number, text)

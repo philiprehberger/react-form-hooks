@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.8
+
+- Demote Features to subsection heading
+
 ## 0.1.7
 
 - Fix CI and License badge URLs in README
