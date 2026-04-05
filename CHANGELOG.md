@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.10
+
+- Fix README GitHub URLs to use correct repo name (ts-react-form-hooks)
+
 ## 0.1.9
 
 - Standardize README to 3-badge format with emoji Support section
